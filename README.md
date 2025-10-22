@@ -1,0 +1,1 @@
+Este repositório é referente as atividades e projetos da disciplina de Introdução ao Processamento Digital de Imagens da Universidade Federal do Ceará, o livro referenciado nos projetos e atividades é Gonzalez, R. C., & Woods, R. E. (2008). Digital Image Processing (3rd ed.). Pearson Prentice Hall.
